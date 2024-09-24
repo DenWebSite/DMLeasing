@@ -389,7 +389,6 @@ body {
 }
 
 .form-btn {
-    cursor: pointer;
     text-transform: uppercase;
     color: #fff;
     background-color: #151515;
@@ -400,6 +399,7 @@ body {
     padding: 13px 61px;
     margin: 0 auto;
     border: none;
+    cursor: pointer;
 }
 
 .blog {

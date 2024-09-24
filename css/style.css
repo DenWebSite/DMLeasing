@@ -389,6 +389,7 @@ body {
 }
 
 .form-btn {
+    cursor: pointer;
     text-transform: uppercase;
     color: #fff;
     background-color: #151515;
